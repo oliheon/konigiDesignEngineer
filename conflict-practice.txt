@@ -1,1 +1,1 @@
-Button color: blue
+Button color: purple
