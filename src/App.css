@@ -135,3 +135,9 @@ body {
   border-color: var(--color-button-primary);
   color: var(--color-button-primary);
 }
+
+.button:focus-visible,
+.favorite-button:focus-visible {
+  outline: 3px solid var(--color-button-primary);
+  outline-offset: var(--space-4);
+}
